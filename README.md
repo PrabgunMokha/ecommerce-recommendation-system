@@ -118,5 +118,4 @@ Apache Spark Documentation
 Scikit-learn Documentation
 
 
-* or customize it with your **actual names + repo name + dataset**
 
